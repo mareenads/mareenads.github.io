@@ -28,6 +28,19 @@ section {
     margin-bottom: 25px
     border-radius: 10px
     box-shadow: 0 4px 10px rgba(0,0,0,0.08)
+    
+}
+
+address {
+    font-style: normal;
+
+}
+footer {
+    text-align: center;
+    padding: 25px;
+    color: #7f8c8d;
+    font-size: 0.85em;
+    margin-top: 40px;
 }
 
 email-box {
